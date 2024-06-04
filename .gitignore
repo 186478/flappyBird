@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+/public/game-build.js
+.env
+
